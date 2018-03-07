@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mobi.zhanglv.demo.WenshixiongApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.429 sec - in mobi.zhanglv.demo.WenshixiongApplicationTests
